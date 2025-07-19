@@ -8,20 +8,7 @@ CS50's Introduction to Programming with Python is a free online course offered b
 
 You can find more information about the course [here](https://cs50.harvard.edu/python/2022/).
 
-## Completed Problem Sets
-
-Here are the problem sets I have completed so far:
-
-* Problem Set 0: Indoor Voice
-* Problem Set 1: Interpreters
-* Problem Set 2: Vanity Plates
-* Problem Set 3: Fuel Gauge
-* Problem Set 4: Frank, Ian and Glen's Letters
-* ... and more to come!
-
-*(Please update this list with the problem sets you have completed)*
-
-## Disclaimer  akademisk ærlighed
+## Disclaimer
 
 These solutions are for my own personal and educational use. If you are also taking the CS50P course, please be sure to follow the course's policy on academic honesty and write your own code.
 
